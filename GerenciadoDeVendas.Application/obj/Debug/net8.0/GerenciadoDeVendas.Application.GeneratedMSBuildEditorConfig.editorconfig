@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GerenciadoDeVendas.Application
-build_property.ProjectDir = S:\Gerenciamento de vendas\GerenciadorDeVendas.API\GerenciadoDeVendas.Application\
+build_property.ProjectDir = S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadoDeVendas.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

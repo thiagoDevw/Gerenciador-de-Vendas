@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj": {}
+    "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj": {}
   },
   "projects": {
-    "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj": {
+    "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj",
+        "projectUniqueName": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj",
         "projectName": "GerenciadoDeVendas.Application",
-        "projectPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj",
+        "projectPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj",
         "packagesPath": "C:\\Users\\ta741\\.nuget\\packages\\",
-        "outputPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadoDeVendas.Application\\obj\\",
+        "outputPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj": {
-                "projectPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj"
+              "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj": {
+                "projectPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj"
               },
-              "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj": {
-                "projectPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj"
+              "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj": {
+                "projectPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj": {
+    "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj",
+        "projectUniqueName": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj",
         "projectName": "GerenciadorDeVendas.Core",
-        "projectPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj",
+        "projectPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj",
         "packagesPath": "C:\\Users\\ta741\\.nuget\\packages\\",
-        "outputPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\obj\\",
+        "outputPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -141,14 +141,14 @@
         }
       }
     },
-    "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj": {
+    "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj",
+        "projectUniqueName": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj",
         "projectName": "GerenciadorDeVendas.Infrastructure",
-        "projectPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj",
+        "projectPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ta741\\.nuget\\packages\\",
-        "outputPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Infrastructure\\obj\\",
+        "outputPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -170,8 +170,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj": {
-                "projectPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj"
+              "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj": {
+                "projectPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj"
               }
             }
           }
@@ -190,6 +190,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -210,14 +216,14 @@
         }
       }
     },
-    "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj": {
+    "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj",
+        "projectUniqueName": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj",
         "projectName": "GerenciadorDeVendas.API",
-        "projectPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj",
+        "projectPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj",
         "packagesPath": "C:\\Users\\ta741\\.nuget\\packages\\",
-        "outputPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas\\obj\\",
+        "outputPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -239,14 +245,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj": {
-                "projectPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj"
+              "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj": {
+                "projectPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj"
               },
-              "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj": {
-                "projectPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj"
+              "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj": {
+                "projectPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj"
               },
-              "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj": {
-                "projectPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj"
+              "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj": {
+                "projectPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj"
               }
             }
           }

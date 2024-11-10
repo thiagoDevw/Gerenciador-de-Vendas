@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sAVS5rFFS4VkBiNCcGKU7adXdXrq4tb1VkaAK4jThWVDOwNP9QkqcbYwPLiH7HcZ2o98ZJ8kVBUlgdw26I6bow==",
+  "dgSpecHash": "MEd/8D73rQDZ7AsX/cP+916eaRbFOGydBai2ZeoVwvrAsMTumh3lgeY8N4WtTUhcM6GvIhQmw6zq5dM8whMcYg==",
   "success": true,
-  "projectFilePath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj",
+  "projectFilePath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

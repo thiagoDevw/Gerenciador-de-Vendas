@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj",
+      "projectUniqueName": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj",
       "projectName": "GerenciadorDeVendas.Core",
-      "projectPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj",
+      "projectPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj",
       "packagesPath": "C:\\Users\\ta741\\.nuget\\packages\\",
-      "outputPath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas.Core\\obj\\",
+      "outputPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

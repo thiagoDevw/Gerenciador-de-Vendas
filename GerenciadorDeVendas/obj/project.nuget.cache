@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mXpvCXCJJ9Wo7Mc3s+7dpeD+RZ82ogQ3mc7akaqNtydwyopD2ZKxQdSyNL3wVxjL+uIXiL+uWQOgn04AKoRPlw==",
+  "dgSpecHash": "j5BGtWGwq2xHoosAPNOokc6d2/rNX2xizshpOOfZOnvsieYOpVnqY1YSSEBvnwjHg/WtWTkIjp6HTGSLjL1EGg==",
   "success": true,
-  "projectFilePath": "S:\\Gerenciamento de vendas\\GerenciadorDeVendas.API\\GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj",
+  "projectFilePath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ta741\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ta741\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
