@@ -1,14 +1,9 @@
 ﻿using GerenciadorDeVendas.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GerenciadorDeVendas.Infrastructure.Persistence
 {
-    internal class AppDbContext : DbContext
+    public class AppDbContext : DbContext
     {
         public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
@@ -27,7 +22,9 @@ namespace GerenciadorDeVendas.Infrastructure.Persistence
                     e.HasKey(c => c.ClientId);
 
                     e.HasMany(e => e.Pedidos)
-                        .WithOne(e => e.Clientes)
+                        .WithOne(p => p.Cliente)
+                        .HasForeignKey(p => p.ClienteId)
+                        .OnDelete(DeleteBehavior.Restrict);
                         
 
                     e.Property(c => c.Nome)
@@ -37,6 +34,22 @@ namespace GerenciadorDeVendas.Infrastructure.Persistence
                     e.Property(c => c.Email)
                         .IsRequired()
                         .HasMaxLength(100);
+                });
+
+            builder
+                .Entity<Pedido>(e =>
+                {
+                    e.HasKey(p => p.PedidoId);
+
+                    e.Property(p => p.Produto)
+                        .IsRequired()
+                        .HasMaxLength(100);
+
+                    e.Property(p => p.Quantidade)
+                        .IsRequired();
+
+                    e.Property(p => p.DataPedido)
+                        .IsRequired();
                 });
 
 

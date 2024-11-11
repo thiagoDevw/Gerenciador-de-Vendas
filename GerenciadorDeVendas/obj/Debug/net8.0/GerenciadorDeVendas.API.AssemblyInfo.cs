@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorDeVendas.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7be0aaa44cb3ced8bd1f359d8009bc5c5dce1ca9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a546bf93a03877fa5259a705741741976d9cd86")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorDeVendas.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorDeVendas.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

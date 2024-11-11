@@ -11,9 +11,4 @@
     <ProjectReference Include="..\GerenciadorDeVendas.Infrastructure\GerenciadorDeVendas.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\ModelsCliente\" />
-    <Folder Include="Models\ModelsVendas\" />
-  </ItemGroup>
-
 </Project>

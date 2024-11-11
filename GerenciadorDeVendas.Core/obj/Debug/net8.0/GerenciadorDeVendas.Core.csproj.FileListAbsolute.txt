@@ -1,0 +1,12 @@
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\bin\Debug\net8.0\GerenciadorDeVendas.Core.deps.json
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\bin\Debug\net8.0\GerenciadorDeVendas.Core.dll
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\bin\Debug\net8.0\GerenciadorDeVendas.Core.pdb
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\obj\Debug\net8.0\GerenciadorDeVendas.Core.GeneratedMSBuildEditorConfig.editorconfig
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\obj\Debug\net8.0\GerenciadorDeVendas.Core.AssemblyInfoInputs.cache
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\obj\Debug\net8.0\GerenciadorDeVendas.Core.AssemblyInfo.cs
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\obj\Debug\net8.0\GerenciadorDeVendas.Core.csproj.CoreCompileInputs.cache
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\obj\Debug\net8.0\GerenciadorDeVendas.Core.sourcelink.json
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\obj\Debug\net8.0\GerenciadorDeVendas.Core.dll
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\obj\Debug\net8.0\refint\GerenciadorDeVendas.Core.dll
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\obj\Debug\net8.0\GerenciadorDeVendas.Core.pdb
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Core\obj\Debug\net8.0\ref\GerenciadorDeVendas.Core.dll

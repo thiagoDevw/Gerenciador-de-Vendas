@@ -1,0 +1,16 @@
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\bin\Debug\net8.0\GerenciadorDeVendas.Infrastructure.deps.json
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\bin\Debug\net8.0\GerenciadorDeVendas.Infrastructure.dll
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\bin\Debug\net8.0\GerenciadorDeVendas.Infrastructure.pdb
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\bin\Debug\net8.0\GerenciadorDeVendas.Core.dll
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\bin\Debug\net8.0\GerenciadorDeVendas.Core.pdb
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\GerenciadorDeVendas.Infrastructure.csproj.AssemblyReference.cache
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\GerenciadorDeVendas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\GerenciadorDeVendas.Infrastructure.AssemblyInfoInputs.cache
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\GerenciadorDeVendas.Infrastructure.AssemblyInfo.cs
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\GerenciadorDeVendas.Infrastructure.csproj.CoreCompileInputs.cache
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\GerenciadorDeVendas.Infrastructure.sourcelink.json
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\Gerencia.3F9154CC.Up2Date
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\GerenciadorDeVendas.Infrastructure.dll
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\refint\GerenciadorDeVendas.Infrastructure.dll
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\GerenciadorDeVendas.Infrastructure.pdb
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\ref\GerenciadorDeVendas.Infrastructure.dll

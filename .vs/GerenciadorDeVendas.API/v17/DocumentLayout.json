@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6158046C-0B2E-4B87-8401-DC2AF123591F}|GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas.core\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6158046C-0B2E-4B87-8401-DC2AF123591F}|GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj|solutionrelative:gerenciadordevendas.core\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6158046C-0B2E-4B87-8401-DC2AF123591F}|GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas.core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6158046C-0B2E-4B87-8401-DC2AF123591F}|GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj|solutionrelative:gerenciadordevendas.core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas\\controllers\\controllercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|solutionrelative:gerenciadordevendas\\controllers\\controllercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FDD4821-6D7D-43D2-81AE-BACB9271A002}|GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FDD4821-6D7D-43D2-81AE-BACB9271A002}|GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj|solutionrelative:gerenciadordevendas.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|solutionrelative:gerenciadordevendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|solutionrelative:gerenciadordevendas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|solutionrelative:gerenciadordevendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadodevendas.application\\models\\modelspedidos\\createpedidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|solutionrelative:gerenciadodevendas.application\\models\\modelspedidos\\createpedidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadodevendas.application\\models\\modelspedidos\\updateclienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|solutionrelative:gerenciadodevendas.application\\models\\modelspedidos\\updateclienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadodevendas.application\\models\\modelspedidos\\pedidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|solutionrelative:gerenciadodevendas.application\\models\\modelspedidos\\pedidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadodevendas.application\\models\\modelspedidos\\pedidoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|solutionrelative:gerenciadodevendas.application\\models\\modelspedidos\\pedidoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadodevendas.application\\models\\modelscliente\\updateclientemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|solutionrelative:gerenciadodevendas.application\\models\\modelscliente\\updateclientemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadodevendas.application\\models\\modelscliente\\createclientemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|solutionrelative:gerenciadodevendas.application\\models\\modelscliente\\createclientemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadodevendas.application\\models\\modelscliente\\clienteitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|solutionrelative:gerenciadodevendas.application\\models\\modelscliente\\clienteitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadodevendas.application\\models\\modelscliente\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D6CC16-7CC0-41EB-A466-30600BFF73BF}|GerenciadoDeVendas.Application\\GerenciadoDeVendas.Application.csproj|solutionrelative:gerenciadodevendas.application\\models\\modelscliente\\clienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6158046C-0B2E-4B87-8401-DC2AF123591F}|GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas.core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6158046C-0B2E-4B87-8401-DC2AF123591F}|GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj|solutionrelative:gerenciadordevendas.core\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6158046C-0B2E-4B87-8401-DC2AF123591F}|GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas.core\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6158046C-0B2E-4B87-8401-DC2AF123591F}|GerenciadorDeVendas.Core\\GerenciadorDeVendas.Core.csproj|solutionrelative:gerenciadordevendas.core\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,53 +71,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\Entities\\Pedido.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeVendas.Core\\Entities\\Pedido.cs",
-              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\Entities\\Pedido.cs",
-              "RelativeToolTip": "GerenciadorDeVendas.Core\\Entities\\Pedido.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAA0AAAA",
+              "Title": "ControllerCliente.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\Controllers\\ControllerCliente.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeVendas\\Controllers\\ControllerCliente.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\Controllers\\ControllerCliente.cs",
+              "RelativeToolTip": "GerenciadorDeVendas\\Controllers\\ControllerCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:42:57.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\Entities\\Cliente.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeVendas.Core\\Entities\\Cliente.cs",
-              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\Entities\\Cliente.cs",
-              "RelativeToolTip": "GerenciadorDeVendas.Core\\Entities\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:38:34.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeVendas.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeToolTip": "GerenciadorDeVendas.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:18:30.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\Program.cs",
-              "RelativeDocumentMoniker": "GerenciadorDeVendas\\Program.cs",
-              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\Program.cs",
-              "RelativeToolTip": "GerenciadorDeVendas\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:17:27.608Z",
+              "WhenOpened": "2024-11-11T00:22:11.873Z",
               "EditorCaption": ""
             },
             {
@@ -92,9 +89,165 @@
               "RelativeDocumentMoniker": "GerenciadorDeVendas\\appsettings.json",
               "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\appsettings.json",
               "RelativeToolTip": "GerenciadorDeVendas\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-10T22:17:12.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeVendas\\Program.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\Program.cs",
+              "RelativeToolTip": "GerenciadorDeVendas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:17:27.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeVendas.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "GerenciadorDeVendas.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:18:30.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePedidoViewModel.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\CreatePedidoViewModel.cs",
+              "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\CreatePedidoViewModel.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\CreatePedidoViewModel.cs",
+              "RelativeToolTip": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\CreatePedidoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:17:47.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateClienteViewModel.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\UpdateClienteViewModel.cs",
+              "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\UpdateClienteViewModel.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\UpdateClienteViewModel.cs",
+              "RelativeToolTip": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\UpdateClienteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:19:14.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoViewModel.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoViewModel.cs",
+              "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoViewModel.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoViewModel.cs",
+              "RelativeToolTip": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:15:50.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidoItemViewModel.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoItemViewModel.cs",
+              "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoItemViewModel.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoItemViewModel.cs",
+              "RelativeToolTip": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoItemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:14:35.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateClienteModels.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\UpdateClienteModels.cs",
+              "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\UpdateClienteModels.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\UpdateClienteModels.cs",
+              "RelativeToolTip": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\UpdateClienteModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:08:48.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateClienteModels.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\CreateClienteModels.cs",
+              "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\CreateClienteModels.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\CreateClienteModels.cs",
+              "RelativeToolTip": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\CreateClienteModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:08:19.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteViewModel.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteViewModel.cs",
+              "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteViewModel.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteViewModel.cs",
+              "RelativeToolTip": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:07:29.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteItemViewModel.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteItemViewModel.cs",
+              "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteItemViewModel.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteItemViewModel.cs",
+              "RelativeToolTip": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteItemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T00:06:52.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeVendas.Core\\Entities\\Pedido.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\Entities\\Pedido.cs",
+              "RelativeToolTip": "GerenciadorDeVendas.Core\\Entities\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:42:57.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "GerenciadorDeVendas.Core\\Entities\\Cliente.cs",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\Entities\\Cliente.cs",
+              "RelativeToolTip": "GerenciadorDeVendas.Core\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:38:34.645Z",
               "EditorCaption": ""
             }
           ]

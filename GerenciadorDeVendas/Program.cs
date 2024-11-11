@@ -1,5 +1,5 @@
+using GerenciadorDeVendas.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
-using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
