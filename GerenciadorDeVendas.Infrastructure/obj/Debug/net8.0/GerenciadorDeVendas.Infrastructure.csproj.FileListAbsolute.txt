@@ -14,3 +14,5 @@ S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructur
 S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\refint\GerenciadorDeVendas.Infrastructure.dll
 S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\GerenciadorDeVendas.Infrastructure.pdb
 S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\ref\GerenciadorDeVendas.Infrastructure.dll
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\bin\Debug\net8.0\GerenciadorDeVendas.Infrastructure.runtimeconfig.json
+S:\Gerenciador de Vendas\Gerenciador-de-Vendas\GerenciadorDeVendas.Infrastructure\obj\Debug\net8.0\GerenciadorDeVendas.Infrastructure.genruntimeconfig.cache

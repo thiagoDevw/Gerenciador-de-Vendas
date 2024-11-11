@@ -965,7 +965,8 @@
       "GerenciadorDeVendas.Infrastructure/1.0.0": {
         "dependencies": {
           "GerenciadorDeVendas.Core": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "8.0.10"
+          "Microsoft.EntityFrameworkCore": "8.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
         },
         "runtime": {
           "GerenciadorDeVendas.Infrastructure.dll": {}

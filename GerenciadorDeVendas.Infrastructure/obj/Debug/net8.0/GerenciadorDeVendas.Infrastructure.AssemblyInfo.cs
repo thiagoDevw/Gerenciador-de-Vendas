@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorDeVendas.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a546bf93a03877fa5259a705741741976d9cd86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1a67d8e6a484093d040269bde3b9fa15f0fc85e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorDeVendas.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorDeVendas.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

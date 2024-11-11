@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9FDD4821-6D7D-43D2-81AE-BACB9271A002}|GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas.infrastructure\\gerenciadordevendas.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FDD4821-6D7D-43D2-81AE-BACB9271A002}|GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj|solutionrelative:gerenciadordevendas.infrastructure\\gerenciadordevendas.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|solutionrelative:gerenciadordevendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas\\controllers\\controllercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|solutionrelative:gerenciadordevendas\\controllers\\controllercliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FDD4821-6D7D-43D2-81AE-BACB9271A002}|GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FDD4821-6D7D-43D2-81AE-BACB9271A002}|GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj|solutionrelative:gerenciadordevendas.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|solutionrelative:gerenciadordevendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3AAF9F2-1387-424E-B5B0-175BC7BA9E03}|GerenciadorDeVendas\\GerenciadorDeVendas.API.csproj|s:\\gerenciador de vendas\\gerenciador-de-vendas\\gerenciadordevendas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -71,19 +75,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GerenciadorDeVendas.Infrastructure",
+              "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj",
+              "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj",
+              "RelativeToolTip": "GerenciadorDeVendas.Infrastructure\\GerenciadorDeVendas.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T01:00:49.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ControllerCliente.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\Controllers\\ControllerCliente.cs",
               "RelativeDocumentMoniker": "GerenciadorDeVendas\\Controllers\\ControllerCliente.cs",
               "ToolTip": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\Controllers\\ControllerCliente.cs",
               "RelativeToolTip": "GerenciadorDeVendas\\Controllers\\ControllerCliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvy0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T00:22:11.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\appsettings.json",
               "RelativeDocumentMoniker": "GerenciadorDeVendas\\appsettings.json",
@@ -96,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas\\Program.cs",
               "RelativeDocumentMoniker": "GerenciadorDeVendas\\Program.cs",
@@ -109,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GerenciadorDeVendas.Infrastructure\\Persistence\\AppDbContext.cs",
@@ -122,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CreatePedidoViewModel.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\CreatePedidoViewModel.cs",
               "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\CreatePedidoViewModel.cs",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UpdateClienteViewModel.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\UpdateClienteViewModel.cs",
               "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\UpdateClienteViewModel.cs",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PedidoViewModel.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoViewModel.cs",
               "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoViewModel.cs",
@@ -161,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PedidoItemViewModel.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoItemViewModel.cs",
               "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsPedidos\\PedidoItemViewModel.cs",
@@ -174,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UpdateClienteModels.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\UpdateClienteModels.cs",
               "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\UpdateClienteModels.cs",
@@ -187,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CreateClienteModels.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\CreateClienteModels.cs",
               "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\CreateClienteModels.cs",
@@ -200,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ClienteViewModel.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteViewModel.cs",
               "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteViewModel.cs",
@@ -213,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ClienteItemViewModel.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteItemViewModel.cs",
               "RelativeDocumentMoniker": "GerenciadoDeVendas.Application\\Models\\ModelsCliente\\ClienteItemViewModel.cs",
@@ -226,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Pedido.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\Entities\\Pedido.cs",
               "RelativeDocumentMoniker": "GerenciadorDeVendas.Core\\Entities\\Pedido.cs",
@@ -239,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Cliente.cs",
               "DocumentMoniker": "S:\\Gerenciador de Vendas\\Gerenciador-de-Vendas\\GerenciadorDeVendas.Core\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "GerenciadorDeVendas.Core\\Entities\\Cliente.cs",
